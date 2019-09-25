@@ -1,10 +1,10 @@
-# Vector Space Model
+# Vector Space Model in Python
 
-This is implementation of Vector Space Model. 
+This is implementation of Vector Space Model Python. 
 
 *Objective of this project is to implement the Vector Space Model (VSM). Dataset contains a collection of about 22,000 text files.*
 
-*Assigned task was to implement a VSM and given a query, program should return top 5 documents related to the query.*
+*Task is to implement a VSM and given a query, program should return top 5 documents related to the query.*
 
 I have done this project on Google Colaboratory. So you can just click this shareable link (https://colab.research.google.com/drive/1Oio0HMNVipLcO_vTrNiaQxB45ef0TgqJ) and run. 
 
